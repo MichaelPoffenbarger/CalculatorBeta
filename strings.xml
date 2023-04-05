@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btnAString">CE</string>
+    <string name="btnBString">+</string>
+    <string name="btnCString">-</string>
+    <string name="btnDString">7</string>
+    <string name="btnEString">8</string>
+    <string name="btnFString">9</string>
+    <string name="btnGString">4</string>
+    <string name="btnHString">5</string>
+    <string name="btnIString">6</string>
+    <string name="btnJString">1</string>
+    <string name="btnKString">2</string>
+    <string name="btnLString">3</string>
+    <string name="btnMString">0</string>
+    <string name="btnNString">=</string>
+    <string name="btnOString">x</string>
+    <string name="btnPString">/</string>
+    <string name="dot">.</string>
+    <string name="sqrt">√</string>
+    <string name="mult">*</string>
+
+
+</resources>
